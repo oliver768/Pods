@@ -1,0 +1,6 @@
+framework module Pods_WOWMI {
+  umbrella header "Pods-WOWMI-umbrella.h"
+
+  export *
+  module * { export * }
+}
